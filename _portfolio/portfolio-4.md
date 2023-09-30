@@ -1,5 +1,5 @@
 ---
-title: "4. Dynamic prediction of Survival Outcomes with Spatially Correlated Longitudinal Observations"
+title: "4.Dynamic prediction of Survival Outcomes with Spatially Correlated Longitudinal Observations"
 #excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---

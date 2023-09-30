@@ -1,5 +1,5 @@
 ---
-title: "2. Statistical Method in Interval-censored Failure Time Data with Missing Covariates"
+title: "2.Statistical Method in Interval-censored Failure Time Data with Missing Covariates"
 #excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---

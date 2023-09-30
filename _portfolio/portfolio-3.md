@@ -1,5 +1,5 @@
 ---
-title: "3. Correlated Survival Outcome Prediction with Neural Network"
+title: "3.Correlated Survival Outcome Prediction with Neural Network"
 #excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---

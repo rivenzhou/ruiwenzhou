@@ -6,7 +6,13 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<!--
+<table>
+    <tr> -->
+  <object data="files/CV_Ruiwen Zhou.pdf" type="application/pdf" width="100%" height="600px"></object>
+   <!-- </tr>
+</table> -->
+<!--
 {% include base_path %}
 
 Education
@@ -57,3 +63,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->

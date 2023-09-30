@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+I am a postdoctoral associate under the supervision of [Dr. Lei Liu](https://profiles.wustl.edu/en/persons/lei-liu) at the Institute for Informatics & Division of Biostatistics at [Washington University in St. Louis](https://medicine.wustl.edu/). I received my doctoral degree in May 2021 under the supervision of [Dr. Jianguo (Tony) Sun](https://stat.missouri.edu/people/sun) at the University of Missouri-Columbia. 
+
+Biostatistics and data science are the forefront of modern medical research, reshaping our understanding of disease, treatment developments, and patient care. As a dedicated researcher in this field, I am driven by the profound impact of statistical methodologies and data-driven research that can advance healthcare and patient well-being. I have broad research interests in biostatistics and data science, including survival analysis, longitudinal data analysis, and deep learning. My research has been applied in analyzing temporally and spatially correlated pointwise visual field data, clustered kidney transplantation data, interval-censored failure time data with missing covariates, and joint models of multi-outcome data. Specific topics of interest include developing neural network for clustered survival outcomes, neural network for dynamic prediction, analysis of interval-censored failure time data with missing covariates, and joint modeling of longitudinal and survival outcomes.
+
+Besides work, I enjoy hiking and reading. The profile photo was taken at a 7,800 feet altitude hiking trail in Mammoth Lakes, California.
+
+<!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -48,3 +55,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->

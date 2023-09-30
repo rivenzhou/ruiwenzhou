@@ -1,0 +1,7 @@
+---
+title: "4. Dynamic prediction of Survival Outcomes with Spatially Correlated Longitudinal Observations"
+#excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
+Glaucoma is a major cause of blindness and vision impairment worldwide, and visual field (VF) tests are essential for monitoring the conversion of glaucoma. While previous studies have primarily focused on using VF data at a single time point for glaucoma prediction, there has been limited exploration of longitudinal trajectories. Additionally, many deep learning techniques treat the time-to-glaucoma prediction as a binary classification problem (glaucoma Yes/No). This often leads to misclassification of some censored subjects into the non-glaucoma category as well as decreased power. To tackle these challenges, we proposed and implemented several deep-learning approaches that naturally incorporate temporal and spatial information from longitudinal visual field data to predict time-to-glaucoma. The proposed methods' prediction performance is assessed on the large Ocular Hypertension Treatment Study (OHTS) dataset. Extensive experiments show that the proposed CNN-Long Short-Term Memory (LSTM) outperforms all competing models in prediction accuracy.

@@ -9,9 +9,10 @@ redirect_from:
 <!--
 <table>
     <tr> -->
-  <object data="files/CV_Ruiwen Zhou.pdf" type="application/pdf" width="100%" height="600px"></object>
+  <iframe data="files/CV_Ruiwen Zhou.pdf" type="application/pdf" width="100%" height="600px"></iframe>
    <!-- </tr>
 </table> -->
+
 <!--
 {% include base_path %}
 

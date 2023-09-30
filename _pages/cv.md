@@ -9,7 +9,7 @@ redirect_from:
 <!--
 <table>
     <tr> -->
-  <iframe data="files/CV_Ruiwen Zhou.pdf" type="application/pdf" width="100%" height="600px"></iframe>
+  <iframe src="https://rivenzhou.github.io/ruiwenzhou/files/CV_Ruiwen%20Zhou.pdf" type="application/pdf" width="100%" height="600px"></iframe>
    <!-- </tr>
 </table> -->
 
